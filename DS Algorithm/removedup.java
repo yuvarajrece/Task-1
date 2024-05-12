@@ -21,3 +21,6 @@ import java.util.TreeSet;
         System.out.println(removeDuplicates(arr));
     }
 }
+
+
+Output : 5
