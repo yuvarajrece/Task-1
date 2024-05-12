@@ -29,3 +29,6 @@
         System.out.println(java.util.Arrays.toString(nums));
       }
 }
+
+
+Output : [2, 5, 3, 8, 9] 
