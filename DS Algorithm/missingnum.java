@@ -17,3 +17,5 @@
         System.out.println(missing(arr, N));
     }
 }
+
+Output : 2
